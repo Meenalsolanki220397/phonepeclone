@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9ce77bc0-7af4-483d-ae45-24dfd40e1f30"
+      }
+    },
+    "owner": "meenal_1"
   }
 }
